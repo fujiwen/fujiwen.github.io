@@ -26,7 +26,6 @@ additional_links:
 - title: Gallery相册
   icon: fas fa-images
   url: https://photo.kman.xyz
-additional_links1:
 - title: Blog
   icon: fas fa-blog
   url: https://kman.homes
@@ -36,11 +35,13 @@ additional_links1:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: |
-  Hi,我是Cayman符基文。一名资深的信息技术经理 & 区域IT领导人。在接近<mark>10年</mark>的酒店职业生涯中，我服务过<mark>4家</mark>不同的国际酒店品牌，独立负责其中3家酒店的筹开，房量超过<mark>1900间</mark>。
+  Hi,我是Cayman符基文。一名 <mark>信息技术经理</mark> & <mark>IT Cluster Leader</mark>
+  
+  在接近<mark>10年</mark>的酒店职业生涯中，我服务过<mark>4家</mark>不同的国际酒店品牌，独立负责其中3家酒店的筹开，房量超过<mark>1900间</mark>。
   
   我目前做为 信息技术方案经理 服务于 <mark>海口索菲特大酒店</mark>，全面负责酒店IT部门运营业务支持。与此同时，也做为雅高区域IT领导人对区域内15家酒店（超过5000间客房）提供包括新ITM招聘，入职培训，项目实施交付及业务支持等。
 
-  我喜欢从运营的角度发现业务流程中的痛点，并提供方案来优化业务流程。2022年，我对酒店客房部在外包人员排班、房态更新、迷你吧抛帐等业务流程调研后，进行了优化和革新。
+  我喜欢从运营的角度发现业务流程中的痛点，并提供方案来优化业务流程。在2022年，我对酒店客房部在外包人员排班、房态更新、迷你吧抛帐等业务流程调研后，进行了优化和革新。
   提高了客房服务人员在人员排班，统计以及楼层客房服务效率等，让部门同仁脱离繁琐的手工操作业务，更加专注于宾客服务体验。据统计，业务流程优化后，将每年为酒店优化出超过3000小时的工作时间。
 
   10年的酒店服务生涯，我听过最多同事们对我的评价是，<mark>你不像是一个IT</mark>，我把这个评价当做是对我的褒奖。
@@ -64,32 +65,41 @@ content:
         link: vlink.cc/sofitel_haikou
         additional_links:
           - title: Social Media Hub
-            icon: fab fa-globe
+            icon: fas fa-globe
             url: https://vlink.cc/sofitel_haikou
         quote: >
           “Social Media Hub” 是一个集中的平台，可以汇聚和管理来自多个来源的社交媒体内容，用于各种场景。
         description: |
-          这是一个单链接网页，可以将您的观众与您所做的一切、关心的一切连接起来。它可以让您在一个地方分享多个链接，这样您的关注者、访客和客户就可以找到他们所需要的一切。
-          您可以将它添加到社交媒体平台（如TikTok和Instagram）的个人资料链接中，将其包含在电子邮件签名中，甚至可以将其显示为QR码，以便将您的线下观众与您在线上连接起来。
+           “Social Media Hub”是一个单链接网页，可以将您的宾客与您所做的一切、关心的一切连接起来。它可以在一个地方分享多个链接，这样关注者、宾客就可以找到他们所需要的一切。
+          你可以将它添加到社交媒体平台（如TikTok和Instagram）的个人资料链接中，将其包含在电子邮件签名中，甚至可以将其显示为QR码，以便引导线下的宾客与线上活动连接起来。
 
   - title: Experience
     layout: list
     content:
       - layout: left
         border: weak
-        title: NatWest
-        sub_title: Lead Frontend Software Engineer
-        caption: July 2021 - Present
+        title: 海口索菲特大酒店
+        sub_title: IT Cluster Manager Soutch CHINA
+        caption: March 2020 - Present
         description: |
-          Taken accountability for the frontend of the payments product area within a commercial banking platform, becoming a go to for knowledge and technical decisions.
+          筹开期间所有的IT业务，包含但不限于：
+          * 基础设施规划和建设：网络设备的选购和安装、服务器和存储设备的设置、电力供应和UPS系统等。
+          * 系统选型和集成：选择适合酒店运营的管理系统和软件，进行系统集成。涉及预订和预订管理系统、客户关系管理系统、财务管理系统等。确保这些系统能够无缝集成，并满足酒店的特定需求。
+          * 数据管理和安全：建立数据备份和恢复策略，确保数据的完整性和可用性，此外，还需要制定和实施网络安全措施，保护酒店的业务系统和客户数据免受潜在的威胁。
+          * 设备采购和安装：涉及计算机、打印机、网络设备、电话系统等设备的选购和安装。
+          * 培训和支持：为酒店员工提供培训和支持，以确保他们能够熟练使用酒店的IT系统。这包括培训员工使用预订系统、客户管理系统等，并提供技术支持和故障排除服务。
+          * 项目管理和协调：协调和管理与IT相关的项目。这包括与供应商的沟通和合作、项目进度的跟踪和报告等。需要确保项目按时完成，并与其他部门密切合作，确保整个筹建过程的顺利进行。
+          * 运营预算编制及优化
 
-          Currently developing a new frontend architecture transforming the current monolithic frontend application into a scalable modular application with micro-frontends
-          using Webpack Module Federation. This has been a great experience to develop a new workflow for developers to develop and release code and have input in all aspects
-          of the development workflow.
+          运营：
+          * 系统维护和支持：提供技术支持，解决员工在使用系统过程中遇到的问题，并及时响应故障和紧急情况
+          * 数据管理和备份：制定和实施网络安全策略，包括防火墙设置、入侵检测系统、反病毒软件等，以保护酒店的网络和数据安全。
+          * 新技术应用和创新：关注新的技术趋势和创新，以提升酒店的运营效率和客户体验。研究和引入新的技术工具和解决方案，如云计算、大数据分析、人工智能等，以改进酒店的业务流程和服务质量。
+          * 培训和培养员工：为酒店员工提供相关的培训和培养，以提高他们的技术水平和系统使用能力。组织培训课程或工作坊，帮助员工熟悉和掌握酒店的IT系统和工具。
+          * 供应商管理：与供应商保持良好的合作关系，并管理相关的合同和服务级别协议。与供应商进行谈判、评估和选择合适的技术产品和服务，以满足酒店的需求。
 
-          I have also been a key part of our frontend interview provess, I have worked to improve our interview process including writing new code tests, whilst interviewing
-          candidates across multiple countries.
-
+          区域支持：
+          * 负责领导和管理酒店行业的区域IT团队，制定和执行IT战略，关注技术规划和创新，协调和管理多个酒店的IT项目，培养团队成员，管理供应商关系，以及关注风险管理和安全措施。推动酒店的数字化转型和提升IT能力，以支持酒店的业务发展和满意度。
       - layout: left
         border: weak
         title: NatWest
