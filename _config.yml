@@ -85,36 +85,34 @@ content:
         sub_title: IT Cluster Manager Soutch CHINA
         caption: March 2020 - Present
         description: |
-          负责筹开期间所有的IT业务，包含但不限于：
-          * 基础设施规划和建设 / 系统选型和集成 / 数据管理和安全 / 设备采购和安装 / 培训和支持 / 项目管理和协调/ 运营预算编制及优化
+          全面负责酒店IT相关业务：
+          筹开期间包含但不限于：
+          基础设施规划和建设 / 系统选型和集成 / 数据管理和安全 / 设备采购和安装 / 培训和支持 / 项目管理和协调/ 运营预算编制及优化
 
           酒店运营期：
-          * 系统维护和支持 / 数据管理和备份 / 新技术应用和创新 培训和培养员工 / 供应商管理
+          系统维护和支持 / 数据管理和备份 / 新技术应用和创新 培训和培养员工 / 供应商管理
 
           区域支持：
-          * 负责领导和管理酒店行业的区域IT团队，制定和执行IT战略，关注技术规划和创新，协调和管理多个酒店的IT项目，培养团队成员，管理供应商关系，以及关注风险管理和安全措施。推动酒店的数字化转型和提升IT能力，以支持酒店的业务发展和满意度。
+          负责领导和管理酒店行业的区域IT团队 / 制定和执行IT战略 / 关注技术规划和创新 / IT项目协调和管理 / 培养团队成员 / 管理供应商关系 / 风险管理和安全措施 
+          推动酒店的数字化转型和提升IT能力，以支持酒店的业务发展和满意度。
+          
       - layout: left
         border: weak
-        title: NatWest
-        sub_title: Frontend Software Engineer
-        caption: August 2017 - July 2021
+        title: 海南希尔顿逸林
+        sub_title: IT Manager
+        caption: Jan 2018 - Feb 2020
         description: |
-          Working at NatWest as a front end engineer focusing mostly on a corporate banking product called Bankline.
-          Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
-          work with the PO defining what we are building.
-
-          I spend most of my time working on a specifc area of a large application that our team take ownership over. The front end is a <mark>React</mark> app
-          that talks to an API built using a collection of <mark>Java</mark> microservices. I have spent time working in multiple parts of the stack including
-          helping to define our front end architecure to follow best practices to implementing PDF and CSV export in a microservice.
-
-          Last year I took the lead on rebuilding the login journey to our application. I worked with the architects and designers to create something that would
-          be fit for purpose and be easy to maintain for years to come. I then built this to a high standard which lead to a seamless switch over from the previous
-          system with no issues. More recently I have acted as a consultant to external teams and application architects to advise on how we should be building new
-          functionality within our application. I have also built reusable components to the same standards as opensource libraries which have been used by different teams across the bank.
-
-          I enjoy learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
-          in the office. I am always looking to suggest improvements and challenge what and how we are working to make sure we are delivering the best service
-          to the customers while also developing to the highest standards.
+          参与并领导开业前的IT硬件设备和系统采购工作，确保设备和系统符合集团的实施标准和运营需求。
+          
+          负责编制IT资本预算、政策与流程、培训计划，并与IT团队共享服务。
+          
+          具有处理运营系统和ELV系统评估与实施、WAN建设和维护、酒店信息化项目批准的经验。
+          
+          负责日常IT运营管理，例如月度报告、更新酒店和集团所需的各种数据、沟通等。
+          
+          指导和发展IT团队。
+          
+          监督计算机技能和业务系统培训与发展，确保每月的培训得以适当进行并与公司文化相匹配。
 
       - layout: left
         border: weak
