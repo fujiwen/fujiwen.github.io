@@ -42,10 +42,13 @@ about_content: |
   在接近<mark>10年</mark>的酒店职业生涯中，我服务过<mark>4家</mark>不同的国际酒店品牌，独立负责其中3家酒店从0到1的筹开，房量超过<mark>1900间</mark>。
   
   我目前服务于 <mark>海口索菲特大酒店</mark>，做为 <mark>信息技术方案经理</mark>负责酒店IT部门并全力支持着酒店运营业务。
+  
   与此同时，也做为雅高华南区域<mark>IT CLuster Leader</mark>对区域内15家酒店（超过5000间客房）提供包括新ITM招聘，入职培训，项目实施交付及业务支持等。
 
   我习惯从运营的角度发现业务流程中的痛点，并提供方案来优化业务流程。在2022年，对酒店客房部在外包人员排班、房态更新、迷你吧抛帐等业务流程调研后，进行了优化和革新。
-  提高了客房服务人员在人员排班，统计以及楼层客房服务效率等，让部门同仁脱离繁琐的手工操作业务，更加专注于宾客服务体验。据统计，业务流程优化后，将每年为酒店优化出超过<mark>3000小时</mark>的工作时间。
+  提高了客房服务人员在人员排班，统计以及楼层客房服务效率等，让部门同仁脱离繁琐的手工操作业务，更加专注于宾客服务体验。
+  
+  据统计，业务流程优化后，将每年为酒店优化出超过<mark>3000小时</mark>的工作时间。
 
   10年的酒店服务生涯，我听过最多的的评价是，<mark>你不像是一个IT</mark>。我把这个评价当做是对我的褒奖。
   我相信这些评价和我以不同的角色来参与酒店的运营是紧密联系的：
@@ -127,41 +130,22 @@ content:
         border: weak
         title: 美兰机场逸唐飞行酒店
         sub_title: IT部门负责人 | 996 Rooms
-        link: www.simitive.com
         caption: September 2016 - January 2018
         description: |
-          During my time at Simitive I worked as part of an agile team building our own in house web based software and
-          also a large scale website for an international client. I gained experience working with a continuous integration
-          workflow using tools such as <mark>Jenkins</mark> and working with Amazon Web Services for deployments. We built most
-          of our software using <mark>Symfony</mark>, <mark>Backbone</mark>, <mark>Marionette</mark>, <mark>Vue</mark> and <mark>Vuex</mark>.
-
-          For 6 months I was working on delivering a standalone web product for an international client that services over
-          600,000 users. This has been built from the ground up using <mark>Symfony</mark> to provide a backend API and
-          <mark>Backbone</mark> for the front end. I also gained a lot of experience with <mark>Elasticsearch</mark> to provide
-          search functionality of millions of entities to the front end. During the project I spent time out of hours
-          communicating with the client, performing deployments and providing support.
-
-          Towards the end of my time at Simitive my role involved assisting with the company's devOps, this included managing
-          our <mark>AWS</mark> infrastructure as well as deploying and migrating sites. I also spent time configuring and maintaining
-          our clients SSO, this mostly involves configuring new clients who are using <mark>AD FS</mark>, <mark>Shibboleth</mark> and
-          <mark>CAS</mark> but also maintaining our software's SSO functionality.
-
+          
       - layout: left
         border: weak
         title: 海口鲁能希尔顿酒店
         sub_title: IT主管 ｜ 442 rooms
         caption: September 2016 - October 2016
         description: |
-          I was asked to update an existing Android app to the latest version of Android and to fix any issues caused by
-          this as well as a few other existing issues. This project had a very tight time scale and I was able to complete
-          it in very good time while providing regular updates to the client.
-
+         
 
   - title: Education教育
     layout: list
     content:
       - title: 海南职业技术学院
-        sub_title: Computer Network
+        sub_title: 计算机网络技术专业
         caption: 2004 - 2007
         description: |
           During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
