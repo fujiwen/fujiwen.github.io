@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Cayman 符基文 
-title: 资深信息技术经理 / Senior IT Manager
+title: IT Cluster Leader Soutch CHINA
 phone: +86 131 1198 6898
 email: iam@kman.vip
 website: https://kman.homes
@@ -82,7 +82,7 @@ content:
       - layout: left
         border: weak
         title: 海口索菲特大酒店
-        sub_title: IT Cluster Manager Soutch CHINA
+        sub_title: IT Cluster Leader Soutch CHINA
         caption: March 2020 - Present
         description: |
           全面负责酒店IT相关业务：
@@ -98,9 +98,9 @@ content:
           
       - layout: left
         border: weak
-        title: 海南希尔顿逸林
-        sub_title: IT Manager
-        caption: Jan 2018 - Feb 2020
+        title: 海南兴隆希尔顿逸林
+        sub_title: IT Manager | 296 Rooms
+        caption: Jan 2018 - Feb 2020 
         description: |
           参与并领导开业前的IT硬件设备和系统采购工作，确保设备和系统符合集团的实施标准和运营需求。
           
@@ -116,10 +116,10 @@ content:
 
       - layout: left
         border: weak
-        title: Simitive
-        sub_title: Full Stack Developer
+        title: 美兰机场逸唐飞行酒店
+        sub_title: Acting IT Manager | 996 Rooms
         link: www.simitive.com
-        caption: November 2015 - August 2017
+        caption: September 2016 - January 2018
         description: |
           During my time at Simitive I worked as part of an agile team building our own in house web based software and
           also a large scale website for an international client. I gained experience working with a continuous integration
@@ -139,8 +139,8 @@ content:
 
       - layout: left
         border: weak
-        title: Freelance
-        sub_title: Android Development
+        title: 海口鲁能希尔顿酒店
+        sub_title: IT Supervisor ｜ 442 rooms
         caption: September 2016 - October 2016
         description: |
           I was asked to update an existing Android app to the latest version of Android and to fix any issues caused by
