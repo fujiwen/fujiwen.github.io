@@ -7,14 +7,14 @@ version: 2
 
 # Personal info
 name: Cayman 符基文 
-title: IT Cluster Leader Soutch CHINA
+title: A Creative & Happy person
 phone: +86 131 1198 6898
 email: iam@kman.vip
 website: https://kman.homes
 
 # Social links
 #twitter_username: sproogen
-github_username:  fujiwen
+#github_username:  fujiwen
 # dribbble_username:
 # facebook_username:
 # flickr_username:
@@ -26,25 +26,25 @@ additional_links:
 - title: Gallery相册
   icon: fas fa-images
   url: https://photo.kman.xyz
-- title: Blog
+- title: Blog博客
   icon: fas fa-blog
   url: https://kman.homes
 
 
 # About Section
-# about_title: About Me自我介绍
+about_title: About Me自我介绍
 about_profile_image: images/profile.png
 about_content: |
-  Hi,我是Cayman符基文。一名 <mark>信息技术经理</mark> & <mark>IT Cluster Leader</mark>
+  Hi,我是Cayman符基文，一位对 <mark>基础设施规划和建设 / 系统选型和集成 / 数据管理和安全 / 设备采购和安装 / 培训和支持 / 项目管理和协调/ 运营预算编制及优化</mark> 有着丰富经验的<mark>IT经理</mark>。
   
-  在接近<mark>10年</mark>的酒店职业生涯中，我服务过<mark>4家</mark>不同的国际酒店品牌，独立负责其中3家酒店的筹开，房量超过<mark>1900间</mark>。
+  在接近<mark>10年</mark>的酒店职业生涯中，我服务过<mark>4家</mark>不同的国际酒店品牌，独立负责其中3家酒店从0到1的筹开，房量超过<mark>1900间</mark>。
   
-  我目前做为 信息技术方案经理 服务于 <mark>海口索菲特大酒店</mark>，全面负责酒店IT部门运营业务支持。与此同时，也做为雅高区域IT领导人对区域内15家酒店（超过5000间客房）提供包括新ITM招聘，入职培训，项目实施交付及业务支持等。
+  我目前做为 <mark>信息技术方案经理</mark> 服务于 <mark>海口索菲特大酒店</mark>，负责酒店IT部门并全力支持着酒店运营业务。与此同时，也做为雅高华南区域<mark>IT CLuster Leader<mark>对区域内15家酒店（超过5000间客房）提供包括新ITM招聘，入职培训，项目实施交付及业务支持等。
 
-  我喜欢从运营的角度发现业务流程中的痛点，并提供方案来优化业务流程。在2022年，我对酒店客房部在外包人员排班、房态更新、迷你吧抛帐等业务流程调研后，进行了优化和革新。
-  提高了客房服务人员在人员排班，统计以及楼层客房服务效率等，让部门同仁脱离繁琐的手工操作业务，更加专注于宾客服务体验。据统计，业务流程优化后，将每年为酒店优化出超过3000小时的工作时间。
+  我习惯从运营的角度发现业务流程中的痛点，并提供方案来优化业务流程。在2022年，对酒店客房部在外包人员排班、房态更新、迷你吧抛帐等业务流程调研后，进行了优化和革新。
+  提高了客房服务人员在人员排班，统计以及楼层客房服务效率等，让部门同仁脱离繁琐的手工操作业务，更加专注于宾客服务体验。据统计，业务流程优化后，将每年为酒店优化出超过<mark>3000小时</mark>的工作时间。
 
-  10年的酒店服务生涯，我听过最多同事们对我的评价是，<mark>你不像是一个IT</mark>，我把这个评价当做是对我的褒奖。
+  10年的酒店服务生涯，我听过最多同事们对我的评价是，<mark>你不像是一个IT</mark>。我也认为我是一个非我把这个评价当做是对我的褒奖。
   我相信这和我以不同的角色来参与酒店的运营是紧密联系的：
 
    -  [IT CLuster Leader South CHINA](https://github.com/sproogen/itsgoingto.be)
@@ -53,6 +53,8 @@ about_content: |
    -  [视频剪辑师](https://github.com/sproogen/itsgoingto.be)
    -  [集团品牌文化讲师](https://github.com/sproogen/itsgoingto.be)
    -  [ DJ ](https://github.com/sproogen/itsgoingto.be)
+
+  每一个角色都代表着一场经历和体验，
    
 
 content:
@@ -71,10 +73,13 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-           “Social Media Hub” 是一个集中的平台，可以汇聚和管理来自多个来源的社交媒体内容，用于各种场景。
+           “Social Media Hub社交媒体中心” 是一个集中的平台，可以汇聚和管理来自多个来源的社交媒体内容，用于各种场景。
         description: | # this will include new lines to allow paragraphs
-          “Social Media Hub”是一个单链接网页，可以将您的宾客与您所做的一切、关心的一切连接起来。它可以在一个地方分享多个链接，这样你的关注者、宾客就可以在1个网页找到他们所需要的一切。
+          <mark>“Social Media Hub”</mark>是一个单链接网页，可以将您的宾客与您所做的一切、关心的一切连接起来。它可以在一个地方分享多个链接，这样你的关注者、宾客就可以在1个网页找到他们所需要的一切。
           你可以将它添加到社交媒体平台（如TikTok和Instagram）的个人资料链接中，将其包含在电子邮件签名中，甚至可以将其显示为QR码，以便引导线下的宾客与线上活动连接起来。
+
+
+
           
   - title: Experience工作经历
     layout: list
@@ -85,6 +90,7 @@ content:
         sub_title: IT Cluster Leader Soutch CHINA
         caption: March 2020 - Present
         description: |
+          
           全面负责酒店IT相关业务：
           筹开期间包含但不限于：
           基础设施规划和建设 / 系统选型和集成 / 数据管理和安全 / 设备采购和安装 / 培训和支持 / 项目管理和协调/ 运营预算编制及优化
@@ -98,7 +104,7 @@ content:
           
       - layout: left
         border: weak
-        title: 海南兴隆希尔顿逸林
+        title: 海南兴隆希尔顿逸林酒店
         sub_title: IT Manager | 296 Rooms
         caption: Jan 2018 - Feb 2020 
         description: |
@@ -147,47 +153,13 @@ content:
           this as well as a few other existing issues. This project had a very tight time scale and I was able to complete
           it in very good time while providing regular updates to the client.
 
-      - layout: left
-        border: weak
-        title: Nudge Digital
-        sub_title: Full Stack Developer
-        link: www.nudgedigital.co.uk
-        caption: August 2014 - November 2015
-        description: |
-          While working at Nudge I was able to work on a large number of projects ranging from small Drupal sites to large
-          enterprise level applications. I enjoy being able to work with clients to understand and surpass their expectations.
-          At Nudge I was also given the oppertunity to work with all of my core skills and to gain new skills in things
-          such as <mark>Symfony</mark>, <mark>Angular</mark> and <mark>Gulp</mark>. I also worked on a number of <mark>iOS</mark> and
-          <mark>Android</mark> applications.
 
-          During my time at Nudge I was able to help the lead developer with the writing of Technical Specifications and
-          also Project Requirements. I feel this is a useful skill to have as it helps me to become an even more well-rounded
-          developer.
-
-          During the summer I had the opportunity to head to Accra, Ghana and work with the team out there. This was a
-          great opportunity to learn more about the industry in another country but also to allow me to lead their
-          team for a few weeks and gain lots of experience of remote teams.
-
-      - layout: left
-        title: GWS Media
-        sub_title: Web Developer
-        link: www.gwsmedia.com
-        caption: June 2012 - August 2014
-        description: |
-          I started working for GWS Media part time during my third year at University and continued full time once I had
-          graduated. It was during this role that I learnt many of the fundamentals that I have been building on over
-          the past 3 years. Whilst at GWS I had the opportunity to work with:
-          <mark>Drupal</mark>, <mark>Magento</mark>, <mark>Bootstrap</mark>, <mark>Codeigniter</mark>, <mark>Android</mark> and <mark>iOS</mark>.
-
-          I feel like having the opportunity to use a large range of different things early on in my career has given me
-          the drive to always want to try new tools and frameworks.
-
-  - title: Education
+  - title: Education教育
     layout: list
     content:
-      - title: Bristol University
-        sub_title: BSc Computer Science
-        caption: 2010 - 2013
+      - title: 海南职业技术学院
+        sub_title: Computer Network
+        caption: 2004 - 2007
         description: |
           During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
           we mainly focused on software development and the principles of programming I use a lot of these skills to
