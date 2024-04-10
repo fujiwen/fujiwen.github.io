@@ -44,8 +44,8 @@ about_content: |
   我习惯从运营的角度发现业务流程中的痛点，并提供方案来优化业务流程。在2022年，对酒店客房部在外包人员排班、房态更新、迷你吧抛帐等业务流程调研后，进行了优化和革新。
   提高了客房服务人员在人员排班，统计以及楼层客房服务效率等，让部门同仁脱离繁琐的手工操作业务，更加专注于宾客服务体验。据统计，业务流程优化后，将每年为酒店优化出超过<mark>3000小时</mark>的工作时间。
 
-  10年的酒店服务生涯，我听过最多同事们对我的评价是，<mark>你不像是一个IT</mark>。我也认为我是一个非我把这个评价当做是对我的褒奖。
-  我相信这和我以不同的角色来参与酒店的运营是紧密联系的：
+  10年的酒店服务生涯，我听过最多的的评价是，<mark>你不像是一个IT</mark>。我把这个评价当做是对我的褒奖。
+  我相信这些评价和我以不同的角色来参与酒店的运营是紧密联系的：
 
    -  [IT CLuster Leader South CHINA](https://github.com/sproogen/itsgoingto.be)
    -  [市场活动策划、协调、执行人](https://github.com/sproogen/itsgoingto.be)
@@ -54,8 +54,8 @@ about_content: |
    -  [集团品牌文化讲师](https://github.com/sproogen/itsgoingto.be)
    -  [ DJ ](https://github.com/sproogen/itsgoingto.be)
 
-  每一个角色都代表着一场经历和体验，
-   
+ 
+    ![Trees](https://minio.kman.xyz/picgo/202404101752977.jpg "Team")
 
 content:
   - title: Projects近期项目 # Title for the section
@@ -104,9 +104,9 @@ content:
           
       - layout: left
         border: weak
-        title: 海南兴隆希尔顿逸林酒店
+        title: 兴隆希尔顿逸林酒店
         sub_title: IT Manager | 296 Rooms
-        caption: Jan 2018 - Feb 2020 
+        caption: January 2018 - February 2020 
         description: |
           参与并领导开业前的IT硬件设备和系统采购工作，确保设备和系统符合集团的实施标准和运营需求。
           
