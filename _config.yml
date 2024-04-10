@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Cayman 符基文 
-title: Senior IT Solution Manager
+title: 资深信息技术经理
 phone: +86 131 1198 6898
 email: iam@kman.vip
 website: https://kman.homes
@@ -26,14 +26,23 @@ additional_links:
 - title: Gallery相册
   icon: fas fa-images
   url: https://photo.kman.xyz
+additional_links:
+- title: Blog
+  icon: fas fa-blog
+  url: https://kman.homes
+
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi,我叫符基文。我是一名资深的信息技术经理&区域IT领导人。在接近<mark>10年</mark>的酒店职业生涯中，我服务过<mark>4家</mark>不同类形的酒店品牌，独立负责其中3家酒店的筹开，房量超过<mark>1900间</mark>。
-  我目前做为 信息技术方案经理 服务于 <mark>海口索菲特大酒店</mark>，全面负责酒店IT业务。与此同时，做为区域IT领导人地区15家酒店（超过5000间客房）提供包括新ITM招聘，入职培训，项目实施交付及业务支持等。
+  Hi,我是Cayman符基文。一名资深的信息技术经理 & 区域IT领导人。在接近<mark>10年</mark>的酒店职业生涯中，我服务过<mark>4家</mark>不同类形的酒店品牌，独立负责其中3家酒店的筹开，房量超过<mark>1900间</mark>。
+  我目前做为 信息技术方案经理 服务于 <mark>海口索菲特大酒店</mark>，全面负责酒店IT部门运营业务支持。与此同时，也做为雅高区域IT领导人对区域内15家酒店（超过5000间客房）提供包括新ITM招聘，入职培训，项目实施交付及业务支持等。
 
+  我喜欢以运营的角度，发现业务流程中的问题，并使用创新的技术方案来优化业务流程。2022年，对酒店客房部在外包人员排班、房态更新、迷你吧抛帐等业务流程进行了优化和革新，提高了客房服务人员在人员排班，统计以及楼层客房服务效率等，
+  让部门同仁脱离繁琐的手工操作业务，更加专注于宾客服务体验。据统计，业务流程优化后，将每年为酒店优化出超过3000小时的工作时间。
+
+  10年的酒店服务生涯，我听过最多同事们对我的评价是，<mark>你不像是一个IT</mark>，我把这个评价当做是我的褒奖。
   I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
   I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience.
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
