@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Cayman 符基文 
-title: 资深信息技术经理
+title: 资深信息技术经理 / Senior IT Manager
 phone: +86 131 1198 6898
 email: iam@kman.vip
 website: https://kman.homes
@@ -44,10 +44,15 @@ about_content: |
   提高了客房服务人员在人员排班，统计以及楼层客房服务效率等，让部门同仁脱离繁琐的手工操作业务，更加专注于宾客服务体验。据统计，业务流程优化后，将每年为酒店优化出超过3000小时的工作时间。
 
   10年的酒店服务生涯，我听过最多同事们对我的评价是，<mark>你不像是一个IT</mark>，我把这个评价当做是对我的褒奖。
-  我认为这和我积极参与酒店的运营，并拿到不同的角色是离不开关系的：
+  我相信这和我以不同的角色来参与酒店的运营是紧密联系的：
 
-   -  [IT CLuster Leader](https://github.com/sproogen/itsgoingto.be)
- 
+   -  [IT CLuster Leader South CHINA](https://github.com/sproogen/itsgoingto.be)
+   -  [市场活动策划、协调、执行人](https://github.com/sproogen/itsgoingto.be)
+   -  [内部活动主持人](https://github.com/sproogen/itsgoingto.be)
+   -  [视频剪辑师](https://github.com/sproogen/itsgoingto.be)
+   -  [集团品牌文化讲师](https://github.com/sproogen/itsgoingto.be)
+   -  [ DJ ](https://github.com/sproogen/itsgoingto.be)
+   
 
 content:
   - title: Projects # Title for the section
@@ -55,37 +60,17 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: Modern Resume Theme
-        link: sproogen.github.io/modern-resume-theme
+        title: Social Media Hub
+        link: vlink.cc/sofitel_haikou
         additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/sproogen/modern-resume-theme
+          - title: Social Media Hub
+            icon: fab fa-globe
+            url: https://vlink.cc/sofitel_haikou
         quote: >
-          A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+          “Social Media Hub” 是一个集中的平台，可以汇聚和管理来自多个来源的社交媒体内容，用于各种场景。
         description: |
-          This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
-          I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
-          It has allowed me to share something I have created in a way that will be helpful for lots of people while also learning from this myself.
-      - layout: top-middle
-        title: itsgoingto.be
-        link: www.itsgoingto.be
-        additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
-        quote: >
-          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
-        description: |
-          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-          a suite of unit and API tests for the backend and unit tests for the front end.
-
-          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
-          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-
-          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+          这是一个单链接网页，可以将您的观众与您所做的一切、关心的一切连接起来。它可以让您在一个地方分享多个链接，这样您的关注者、访客和客户就可以找到他们所需要的一切。
+          您可以将它添加到社交媒体平台（如TikTok和Instagram）的个人资料链接中，将其包含在电子邮件签名中，甚至可以将其显示为QR码，以便将您的线下观众与您在线上连接起来。
 
   - title: Experience
     layout: list
