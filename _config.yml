@@ -49,17 +49,16 @@ about_content: |
   
   我认为同事们的评价和我以不同的角色来参与酒店的运营是密切联系.
   
-  所以我不仅仅是IT,我也是：
+  所以我不仅仅是IT,我也可以是：
 
    -  [IT CLuster Leader South CHINA](https://github.com/sproogen/itsgoingto.be)
-   -  [ DJ ](https://github.com/sproogen/itsgoingto.be)
    -  [市场活动策划、协调、执行人](https://github.com/sproogen/itsgoingto.be)
    -  [内部活动主持人](https://github.com/sproogen/itsgoingto.be)
    -  [视频剪辑师](https://github.com/sproogen/itsgoingto.be)
    -  [品牌服务文化培训师](https://github.com/sproogen/itsgoingto.be)
+   -  [ DJ ](https://github.com/sproogen/itsgoingto.be)
 
 
- 
     ![Trees](https://minio.kman.xyz/picgo/202404101752977.jpg "Team")
 
 content:
@@ -123,9 +122,9 @@ content:
         sub_title: IT部门负责人 | 996 Rooms
         caption: September 2016 - January 2018
         description: |
-         设备采购和安装：涉及计算机、打印机、网络设备、电话系统等设备的选购和安装.
+         - 设备采购和安装：涉及计算机、打印机、网络设备、电话系统等设备的选购和安装.
 
-         培训和支持：为酒店员工提供培训和支持,以确保他们能够熟练使用酒店的IT系统.这包括培训员工使用预订系统、客户管理系统等,并提供技术支持和故障排除服务
+         - 培训和支持：为酒店员工提供培训和支持,以确保他们能够熟练使用酒店的IT系统.这包括培训员工使用预订系统、客户管理系统等,并提供技术支持和故障排除服务
 
       - layout: left
         border: weak
@@ -134,7 +133,7 @@ content:
         caption: September 2016 - October 2016
         description: |
 
-         负责确保酒店的IT系统和设备正常运行,并满足酒店业务的需求.
+         - 负责确保酒店的IT系统和设备正常运行,并满足酒店业务的需求.
       
 
   - title: 毕业院校&语言能力
@@ -165,11 +164,11 @@ content:
         quote: >
            “Social Media Hub社交媒体中心” 是一个集中的平台,可以汇聚和管理来自多个来源的社交媒体内容,应用于各种场景.
         description: | # this will include new lines to allow paragraphs
-         最近,我发起并创建了 <mark>Social Media Hub</mark> 这个特别的项目 - 它是一个单链接网页,它可以在一个页面里分享多个活动链接,这样你的关注者、宾客就可以在一个网页中找到他们所需要的一切.
+         我发起并创建了 <mark>Social Media Hub</mark> 这个特别的项目 - 它是一个单链接网页,它可以在一个页面里分享多个活动链接,这样你的关注者、宾客就可以在一个网页中找到他们所需要的一切.
          
          我们可以将它添加到社交媒体平台（如抖音和小红书）的个人资料链接中,甚至可以将其显示为QR码,投放到客房内的电视上,以引导线下的宾客与线上活动连接起来.
          
-         我负责了这个项目内的全部的编码及布局设计以及URL地址的转换的工作,如果你刚也感兴趣,欢迎联系我呀.          
+         我负责了这个项目内的全部的编码及布局设计以及URL地址的转换的工作,如果你刚好也感兴趣,欢迎联系我呀.          
 
   #- title: When I'm Not Programming
   #  layout: text
