@@ -62,10 +62,30 @@ about_content: |
  
     ![Trees](https://minio.kman.xyz/picgo/202404101752977.jpg "Team")
 
-
-
-
-          
+content:
+  - title: 项目 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Social Media Hub
+        link: vlink.cc/sofitel_haikou
+        # link_text: Project Website
+        additional_links:
+          - title:  vlink.cc/sofitel_haikou
+            icon: fas fa-globe
+            url: vlink.cc/sofitel_haikou
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           “Social Media Hub社交媒体中心” 是一个集中的平台，可以汇聚和管理来自多个来源的社交媒体内容，应用于各种场景。
+        description: | # this will include new lines to allow paragraphs
+         最近，我发起并创建了 <mark>Social Media Hub</mark> 这个特别的项目 - 它是一个单链接网页，它可以在一个页面里分享多个活动链接，这样你的关注者、宾客就可以在一个网页中找到他们所需要的一切。
+         
+         我们可以将它添加到社交媒体平台（如抖音和小红书）的个人资料链接中，甚至可以将其显示为QR码，投放到客房内的电视上，以引导线下的宾客与线上活动连接起来。
+         
+         我负责了这个项目内的全部的编码及布局设计以及URL地址的转换的工作，如果你刚也感兴趣，欢迎联系我呀。
+        
   - title: 工作经历
     layout: list
     content:
@@ -139,7 +159,18 @@ about_content: |
 
          负责确保酒店的IT系统和设备正常运行，并满足酒店业务的需求。
       
-content:
+
+  - title: 毕业院校&语能力能
+    layout: list
+    content:
+      - title: 海南职业技术学院
+        sub_title: 计算机网络技术专业
+        caption: 2004 - 2007
+        description: |
+
+          - 英语 ★★★☆☆ 日常对话和阅读、写作
+          - 粤语 ★★★☆☆ 日常对话和阅读
+      
   - title: 项目 # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -162,25 +193,23 @@ content:
          我们可以将它添加到社交媒体平台（如抖音和小红书）的个人资料链接中，甚至可以将其显示为QR码，投放到客房内的电视上，以引导线下的宾客与线上活动连接起来。
          
          我负责了这个项目内的全部的编码及布局设计以及URL地址的转换的工作，如果你刚也感兴趣，欢迎联系我呀。
+         
 
-
-  - title: 毕业院校&语言能力
-    layout: list
-    content:
-      - title: 海南职业技术学院
-        sub_title: 计算机网络技术专业
-        caption: 2004 - 2007
-        description: |
-
-          - 英语 ★★★☆☆ 日常对话和阅读、写作
-          - 粤语 ★★★☆☆ 日常对话和阅读
-      
-          
-
-  - title: When I'm Not Programming
+- title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
+      
+      #When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as
+      #mountain biking, road cycling, kitesuring and horse riding as well as trying to make time for things like
+      #rock climbing and playing some rugby. I currently have 2 horses and find this is a great way to get out of the house
+      #and taking my mind of things while learing to showjump.
 
+      #I'm interested in photography and videography as I like to be creative, this is mainly through sport but
+      #I enjoy landscape and abstract photography too. I like to showcase my work on instagram if
+      #you would like to take a look - [jameswgrant](https://www.instagram.com/jameswgrant/).
+
+      #Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of
+      #Bristol's indoor climbing centres or down 'The Rec' supporting Bath Rugby.
 
 # Footer
 footer_show_references: false
