@@ -1,120 +1,184 @@
+
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
-# Content configuration version
 version: 2
 
 # Personal info
-name: Cayman FU
-title: Senior IT Solution Manager 
+name: Cayman 符基文 
+title: 信息技术经理 / IT Manager
+phone: +86 131 1198 6898
 email: iam@kman.vip
 website: https://kman.homes
 
-# Dark Mode (true/false/never)
-darkmode: false
-
 # Social links
-#twitter_username: facespics
-github_username:  fujiwen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+#twitter_username: sproogen
+#github_username:  fujiwen
+# dribbble_username:
+# facebook_username:
+# flickr_username:
 #instagram_username: jameswgrant
 linkedin_username: caymanfu
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
+# pinterest_username:
+# youtube_username:
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: Gallery相册
+  icon: fas fa-images
+  url: https://photo.kman.xyz
+- title: Blog博客
+  icon: fas fa-blog
+  url: https://kman.homes
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+about_title: About Me自我介绍
+about_profile_image: images/profile.png
+about_content: |
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  “你不像是一个IT” - 同事们常对我说。
+  
+  您好，我是Cayman符基文，是一名有着丰富酒店筹开经验的<mark>IT经理</mark>。 对酒店筹开期间的涉及的工作任务：<mark>基础设施规划和建设</mark>  
+  / <mark>系统选型和集成</mark>  / <mark>数据管理和安全</mark>  / <mark>设备采购和安装</mark>  / <mark>培训和支持</mark>
+  / <mark>项目管理和协调 </mark> / <mark>预算编制及优化</mark> 有着自己的理解和成熟的实施方案。
+  
+  在接近<mark>10年</mark>的酒店职业生涯中，我服务过<mark>4家</mark>不同的国际酒店品牌，独立负责其中3家酒店从0到1的筹开，房量超过<mark>1900间</mark>。
+  
+  我目前做为 <mark>信息技术方案经理</mark>服务于 <mark>海口索菲特大酒店</mark>，负责酒店IT部门并全力支持着酒店运营业务。
+  
+  同时，做为雅高集团华南区域<mark>IT CLuster Leader</mark>，也为区域内16家酒店（超过5000间客房）提供包括新ITM招聘，入职培训，项目实施交付及业务支持等。
+
+  我习惯从运营的角度发现业务流程中的痛点，并提供方案来优化业务流程。在2022年，对酒店客房部在外包人员排班、房态更新、迷你吧抛帐等业务流程调研后，进行了优化和革新。
+  提高了客房服务人员在人员排班，统计以及楼层客房服务效率等，让部门同仁脱离繁琐的手工操作业务，更加专注于宾客服务体验。
+  
+  据统计，业务流程优化后，将每年为酒店优化出超过<mark>3000小时</mark>的工作时间。
+
+  10年的酒店服务生涯，我听过最多的的评价是，<mark>你不像是一个IT</mark>。我深以为然，也把这个评价当做是褒奖。
+  
+  同事们对我的积极评价，我认为和我以不同的角色来参与酒店的运营是密切联系在一起的：
+
+   -  [IT CLuster Leader South CHINA](https://github.com/sproogen/itsgoingto.be)
+   -  [市场活动策划、协调、执行人](https://github.com/sproogen/itsgoingto.be)
+   -  [内部活动主持人](https://github.com/sproogen/itsgoingto.be)
+   -  [视频剪辑师](https://github.com/sproogen/itsgoingto.be)
+   -  [品牌服务文化培训师](https://github.com/sproogen/itsgoingto.be)
+   -  [ DJ ](https://github.com/sproogen/itsgoingto.be)
+
+ 
+    ![Trees](https://minio.kman.xyz/picgo/202404101752977.jpg "Team")
 
 content:
-  - title: Projects # Title for the section
+  - title: Projects近期项目 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Social Media Hub
+        link: vlink.cc/sofitel_haikou
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          - title:  vlink.cc/sofitel_haikou
+            icon: fas fa-globe
+            url: vlink.cc/sofitel_haikou
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+           “Social Media Hub社交媒体中心” 是一个集中的平台，可以汇聚和管理来自多个来源的社交媒体内容，用于各种场景。
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+         近期，我正在帮助酒店建立 <mark>“Social Media Hub”</mark> - 它是一个单链接网页，可以将宾客与酒店所做的一切、关心的一切连接起来。
+         它可以在一个页面里分享多个活动链接，这样你的关注者、宾客就可以在一个网页中找到他们所需要的一切。
+         你可以将它添加到社交媒体平台（如TikTok和Instagram）的个人资料链接中，将其包含在电子邮件签名中，甚至可以将其显示为QR码，以便引导线下的宾客与线上活动连接起来。
+         我参与了这个项目全部的编码及布局设计，URL地址的转换工作，如果你也有兴趣，欢迎联系我，共同探讨。
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+
+
+          
+  - title: Experience工作经历
+    layout: list
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+        border: weak
+        title: 海口索菲特大酒店
+        sub_title: 信息技术方案经理 ｜ 209 Rooms
+        caption: March 2020 - Present
+        description: |
+          
+          全面负责酒店IT相关业务：
+          筹开期间包含但不限于：
+          基础设施规划和建设 / 系统选型和集成 / 数据管理和安全 / 设备采购和安装 / 培训和支持 / 项目管理和协调/ 运营预算编制及优化
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+          酒店运营期：
+          系统维护和支持 / 数据管理和备份 / 新技术应用和创新 培训和培养员工 / 供应商管理
+
+          区域支持：
+          负责领导和管理酒店行业的区域IT团队 / 制定和执行IT战略 / 关注技术规划和创新 / IT项目协调和管理 / 培养团队成员 / 管理供应商关系 / 风险管理和安全措施 
+          推动酒店的数字化转型和提升IT能力，以支持酒店的业务发展和满意度。
+          
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        border: weak
+        title: 兴隆希尔顿逸林酒店
+        sub_title: IT经理 | 296 Rooms
+        caption: January 2018 - February 2020 
+        description: |
+          参与并领导开业前的IT硬件设备和系统采购工作，确保设备和系统符合集团的实施标准和运营需求。
+          
+          负责编制IT资本预算、政策与流程、培训计划，并与IT团队共享服务。
+          
+          具有处理运营系统和ELV系统评估与实施、WAN建设和维护、酒店信息化项目批准的经验。
+          
+          负责日常IT运营管理，例如月度报告、更新酒店和集团所需的各种数据、沟通等。
+          
+          指导和发展IT团队。
+          
+          监督计算机技能和业务系统培训与发展，确保每月的培训得以适当进行并与公司文化相匹配。
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        border: weak
+        title: 美兰机场逸唐飞行酒店
+        sub_title: IT部门负责人 | 996 Rooms
+        caption: September 2016 - January 2018
+        description: |
+          
+      - layout: left
+        border: weak
+        title: 海口鲁能希尔顿酒店
+        sub_title: IT主管 ｜ 442 rooms
+        caption: September 2016 - October 2016
+        description: |
+         
 
-  - title: A Little More About Me
+  - title: Education教育
+    layout: list
+    content:
+      - title: 海南职业技术学院
+        sub_title: 计算机网络技术专业
+        caption: 2004 - 2007
+        description: |
+          During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
+          we mainly focused on software development and the principles of programming I use a lot of these skills to
+          my advantage in my day to day work.
+
+          While at Bristol Uni I spent a lot of my free time with the Kitesurfing society. I spent 3 years on the committee
+          as a secretary, trip rep and then media and promotions manager. During this time I took on roles from organising
+          transport and designing posters to organising a trip to Portugal for over 30 students.
+
+  - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as
+      mountain biking, road cycling, kitesuring and horse riding as well as trying to make time for things like
+      rock climbing and playing some rugby. I currently have 2 horses and find this is a great way to get out of the house
+      and taking my mind of things while learing to showjump.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      I'm interested in photography and videography as I like to be creative, this is mainly through sport but
+      I enjoy landscape and abstract photography too. I like to showcase my work on instagram if
+      you would like to take a look - [jameswgrant](https://www.instagram.com/jameswgrant/).
+
+      Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of
+      Bristol's indoor climbing centres or down 'The Rec' supporting Bath Rugby.
 
 # Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -122,6 +186,3 @@ remote_theme: sproogen/resume-theme
 sass:
   sass_dir: _sass
   style: compressed
-
-plugins:
- - jekyll-seo-tag
