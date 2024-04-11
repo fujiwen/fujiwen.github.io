@@ -85,7 +85,9 @@ content:
          我们可以将它添加到社交媒体平台（如抖音和小红书）的个人资料链接中，甚至可以将其显示为QR码，投放到客房内的电视上，以引导线下的宾客与线上活动连接起来。
          
          我负责了这个项目内的全部的编码及布局设计以及URL地址的转换的工作，如果你刚也感兴趣，欢迎联系我呀。
-        
+
+
+          
   - title: 工作经历
     layout: list
     content:
@@ -107,7 +109,7 @@ content:
 
           **团队协作**：
 
-            - 参与酒店发起的市场活动，包含前期提供策划和创意，活动现场环境的氛围音乐的选定，现场的协调及执行 -  现场支持角色，确保活动按计划顺利进行。
+            - 参与酒店发起的市场活动，包含前期提供策划和创意，活动现场环境的氛围音乐的选定，现场的协调及执行 -  多为现场支持角色，确保活动按计划顺利进行。
             - 担任<mark>DJ</mark> / <mark>主持人</mark> 角色，配合酒店内外部活动，如酒店年会、餐厅圣诞节&跨年活动
           
 
@@ -136,8 +138,7 @@ content:
 
           **前厅部：**
           在因为疫情的原因，离开服务的这家酒店时，我已经开始了6个月的礼宾及康体部门运营管理工作。酒店运营工作事实上给我的未来工作带来了非常不一样的不同思维方式。
-            
-            - 前厅副经理 - 负责礼宾部及及康体中心运营
+            前厅副经理 - 负责礼宾部及及康体中心运营
 
 
       - layout: left
@@ -171,31 +172,9 @@ content:
           - 英语 ★★★☆☆ 日常对话和阅读、写作
           - 粤语 ★★★☆☆ 日常对话和阅读
       
-  - title: 项目 # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Social Media Hub
-        link: vlink.cc/sofitel_haikou
-        # link_text: Project Website
-        additional_links:
-          - title:  vlink.cc/sofitel_haikou
-            icon: fas fa-globe
-            url: vlink.cc/sofitel_haikou
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-           “Social Media Hub社交媒体中心” 是一个集中的平台，可以汇聚和管理来自多个来源的社交媒体内容，应用于各种场景。
-        description: | # this will include new lines to allow paragraphs
-         最近，我发起并创建了 <mark>Social Media Hub</mark> 这个特别的项目 - 它是一个单链接网页，它可以在一个页面里分享多个活动链接，这样你的关注者、宾客就可以在一个网页中找到他们所需要的一切。
-         
-         我们可以将它添加到社交媒体平台（如抖音和小红书）的个人资料链接中，甚至可以将其显示为QR码，投放到客房内的电视上，以引导线下的宾客与线上活动连接起来。
-         
-         我负责了这个项目内的全部的编码及布局设计以及URL地址的转换的工作，如果你刚也感兴趣，欢迎联系我呀。
-         
+          
 
-- title: When I'm Not Programming
+  - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
       
