@@ -136,20 +136,7 @@ content:
 
          - 负责确保酒店的IT系统和设备正常运行,并满足酒店业务的需求.
       
-
-  - title: 毕业院校&语言能力
-    layout: list
-    content:
-      - title: 海南职业技术学院
-        sub_title: 计算机网络技术专业
-        caption: 2004 - 2007
-        description: |
-
-          - 英语 ★★★☆☆ 
-            日常对话和阅读、写作
-          - 粤语 ★★★☆☆ 
-            日常对话和阅读
-
+  
   - title: 近期项目 # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -172,6 +159,19 @@ content:
          我们可以将它添加到社交媒体平台（如抖音和小红书）的个人资料链接中,甚至可以将其显示为QR码,投放到客房内的电视上,以引导线下的宾客与线上活动连接起来.
          
          我负责了这个项目内的全部的编码及布局设计以及URL地址的转换的工作,如果你刚好也感兴趣,欢迎联系我呀.          
+
+  - title: 毕业院校&语言能力
+    layout: list
+    content:
+      - title: 海南职业技术学院
+        sub_title: 计算机网络技术专业
+        caption: 2004 - 2007
+        description: |
+
+          - 英语 ★★★☆☆ 
+            日常对话和阅读、写作
+          - 粤语 ★★★☆☆ 
+            日常对话和阅读
 
   #- title: When I'm Not Programming
   #  layout: text
