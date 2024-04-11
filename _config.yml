@@ -31,7 +31,7 @@ additional_links:
   url: https://kman.homes
 
 # About Section
-about_title: About Me自我介绍
+about_title: 自我介绍
 about_profile_image: images/profile.png
 about_content: |
 
@@ -47,7 +47,9 @@ about_content: |
 
   10年的酒店服务生涯，我听过最多的的评价是，<mark>你不像是一个IT</mark>。我深以为然，也把这个评价当做是褒奖。
   
-  我认为同事们的评价和我以不同的角色来参与酒店的运营是密切联系。所以我不仅仅是IT，我也是：
+  我认为同事们的评价和我以不同的角色来参与酒店的运营是密切联系。
+  
+  所以我不仅仅是IT，我也是：
 
    -  [IT CLuster Leader South CHINA](https://github.com/sproogen/itsgoingto.be)
    -  [ DJ ](https://github.com/sproogen/itsgoingto.be)
@@ -61,7 +63,7 @@ about_content: |
     ![Trees](https://minio.kman.xyz/picgo/202404101752977.jpg "Team")
 
 content:
-  - title: Projects近期项目 # Title for the section
+  - title: 项目 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -86,7 +88,7 @@ content:
 
 
           
-  - title: Experience工作经历
+  - title: 工作经历
     layout: list
     content:
       - layout: left
@@ -103,7 +105,7 @@ content:
             - 搭建酒店内部通讯平台，审批流程数字化，满足酒店内部的沟通和协作需求。
             - 开发和集成chatgpt功能插件到平台并提供给全员使用，MKT、餐饮、宾客服务部门都使用此功能进行宾客反馈评论。
             - 持续对酒店业务系统及服务进行更新和迭代，优化业务成本支出. - PMS系统按预期进行更新和迭代将为酒店在5年周期内成本下降<mark>20万元</mark>，餐饮系统5年期成本下降<mark>5万元</mark>。
-            - 2021年通过"Accor Greater China Brand Service Culture Cerfitication",成为酒店品牌服务文化培训讲师。 
+            - 2021年通过"雅高大中华区品牌文化认证",成为酒店品牌服务文化培训讲师。 
 
           团队协作：
 
@@ -111,7 +113,9 @@ content:
             - 担任<mark>DJ</mark> / <mark>主持人</mark> 角色，配合酒店内外部活动，比如酒店年会、餐厅圣诞节&跨年活动
 
           区域支持：
-          
+
+            - 
+
           负责领导和管理酒店行业的区域IT团队 / 制定和执行IT战略 / 关注技术规划和创新 / IT项目协调和管理 / 培养团队成员 / 管理供应商关系 / 风险管理和安全措施 
           推动酒店的数字化转型和提升IT能力，以支持酒店的业务发展和满意度。
 
@@ -150,7 +154,7 @@ content:
         description: |
          
 
-  - title: Education教育
+  - title: 教育
     layout: list
     content:
       - title: 海南职业技术学院
