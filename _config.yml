@@ -172,6 +172,28 @@ content:
          我们可以将它添加到社交媒体平台（如抖音和小红书）的个人资料链接中,甚至可以将其显示为QR码,投放到客房内的电视上,以引导线下的宾客与线上活动连接起来.
          
          我负责了这个项目内的全部的编码及布局设计以及URL地址的转换的工作,如果你刚好也感兴趣,欢迎联系我呀.          
+  - title: 近期项目 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 社交媒体中心
+        link: vlink.cc/sofitel_haikou
+        # link_text: Project Website
+        additional_links:
+          - title:  vlink.cc/sofitel_haikou
+            icon: fas fa-globe
+            url: vlink.cc/sofitel_haikou
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           “Social Media Hub社交媒体中心” 是一个集中的平台,可以汇聚和管理来自多个来源的社交媒体内容,应用于各种场景.
+        description: | # this will include new lines to allow paragraphs
+         我发起并创建了 <mark>Social Media Hub</mark> 这个特别的项目 - 它是一个单链接网页,它可以在一个页面里分享多个活动链接,这样你的关注者、宾客就可以在一个网页中找到他们所需要的一切.
+         
+         我们可以将它添加到社交媒体平台（如抖音和小红书）的个人资料链接中,甚至可以将其显示为QR码,投放到客房内的电视上,以引导线下的宾客与线上活动连接起来.
+         
+         我负责了这个项目内的全部的编码及布局设计以及URL地址的转换的工作,如果你刚好也感兴趣,欢迎联系我呀.          
 
   #- title: When I'm Not Programming
   #  layout: text
